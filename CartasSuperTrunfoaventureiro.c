@@ -70,7 +70,7 @@ int main() {
     scanf("%f", &carta2.PIB);
     carta2.PIB *= 1e9;  // Convertendo bilhões para reais
 
-    printf("Digite a área da cidade (em km²):\n");
+    printf("Digite a área da cidade:\n");
     scanf("%f", &carta2.area);
 
     printf("Digite a população da cidade:\n");
